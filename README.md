@@ -112,13 +112,8 @@ adb shell pm grant com.neuralflow.ai android.permission.ACCESS_FINE_LOCATION
 
 ### 📸 Screenshots
 
-#### NeuralFlow AI Dashboard  
-![NeuralFlow AI Dashboard](upload-image-placeholder)
+<img width="1280" height="566" alt="image" src="https://github.com/user-attachments/assets/0edea69f-a06e-4091-991e-d61b3da28972" />
+<img width="1280" height="568" alt="image" src="https://github.com/user-attachments/assets/07622724-793f-420c-9c24-083921d109c1" />
 
-#### Smart Task Offloading Panel  
-![Smart Task Offloading](upload-image-placeholder)
 
----
-
-Would you like me to help you convert this into multiple `.md` files or tailor it for a GitHub README?
 
