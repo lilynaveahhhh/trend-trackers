@@ -1,7 +1,7 @@
 # Samsung EnnovateX 2025 AI Challenge Submission
 
 ## Problem Statement
-On device 
+On device agentiic system for intelligent battery optimization 
 
 ## Team Name
 <Your Trend Trackers>
